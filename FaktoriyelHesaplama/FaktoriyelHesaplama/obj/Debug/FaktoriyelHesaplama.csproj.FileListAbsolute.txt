@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe.config
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.exe
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\bin\Debug\FaktoriyelHesaplama.pdb
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.exe
+C:\Users\Berke\source\repos\FaktoriyelHesaplama\FaktoriyelHesaplama\obj\Debug\FaktoriyelHesaplama.pdb
