@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\bin\Debug\UcgeninUcuncuAcisiniBulma.exe.config
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\bin\Debug\UcgeninUcuncuAcisiniBulma.exe
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\bin\Debug\UcgeninUcuncuAcisiniBulma.pdb
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\obj\Debug\UcgeninUcuncuAcisiniBulma.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\obj\Debug\UcgeninUcuncuAcisiniBulma.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\obj\Debug\UcgeninUcuncuAcisiniBulma.exe
+C:\Users\Berke\source\repos\UcgeninUcuncuAcisiniBulma\UcgeninUcuncuAcisiniBulma\obj\Debug\UcgeninUcuncuAcisiniBulma.pdb
