@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\bin\Debug\TekveCiftSayilaraGoreHesaplatma.exe.config
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\bin\Debug\TekveCiftSayilaraGoreHesaplatma.exe
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\bin\Debug\TekveCiftSayilaraGoreHesaplatma.pdb
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\obj\Debug\TekveCiftSayilaraGoreHesaplatma.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\obj\Debug\TekveCiftSayilaraGoreHesaplatma.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\obj\Debug\TekveCiftSayilaraGoreHesaplatma.exe
+C:\Users\Berke\source\repos\TekveCiftSayilaraGoreHesaplatma\TekveCiftSayilaraGoreHesaplatma\obj\Debug\TekveCiftSayilaraGoreHesaplatma.pdb
