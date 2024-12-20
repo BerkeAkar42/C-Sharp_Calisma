@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\bin\Debug\CocukSayisinaGoreMaasHesaplama.exe.config
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\bin\Debug\CocukSayisinaGoreMaasHesaplama.exe
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\bin\Debug\CocukSayisinaGoreMaasHesaplama.pdb
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\obj\Debug\CocukSayisinaGoreMaasHesaplama.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\obj\Debug\CocukSayisinaGoreMaasHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\obj\Debug\CocukSayisinaGoreMaasHesaplama.exe
+C:\Users\Berke\source\repos\CocukSayisinaGoreMaasHesaplama\CocukSayisinaGoreMaasHesaplama\obj\Debug\CocukSayisinaGoreMaasHesaplama.pdb
