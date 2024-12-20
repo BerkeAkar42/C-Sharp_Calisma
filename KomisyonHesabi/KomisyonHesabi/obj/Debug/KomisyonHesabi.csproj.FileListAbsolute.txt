@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\bin\Debug\KomisyonHesabi.exe.config
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\bin\Debug\KomisyonHesabi.exe
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\bin\Debug\KomisyonHesabi.pdb
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\obj\Debug\KomisyonHesabi.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\obj\Debug\KomisyonHesabi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\obj\Debug\KomisyonHesabi.exe
+C:\Users\Berke\source\repos\KomisyonHesabi\KomisyonHesabi\obj\Debug\KomisyonHesabi.pdb
