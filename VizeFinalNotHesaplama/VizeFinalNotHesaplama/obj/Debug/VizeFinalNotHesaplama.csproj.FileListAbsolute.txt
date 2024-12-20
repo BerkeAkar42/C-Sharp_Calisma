@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\bin\Debug\VizeFinalNotHesaplama.exe.config
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\bin\Debug\VizeFinalNotHesaplama.exe
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\bin\Debug\VizeFinalNotHesaplama.pdb
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\obj\Debug\VizeFinalNotHesaplama.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\obj\Debug\VizeFinalNotHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\obj\Debug\VizeFinalNotHesaplama.exe
+C:\Users\Berke\source\repos\VizeFinalNotHesaplama\VizeFinalNotHesaplama\obj\Debug\VizeFinalNotHesaplama.pdb
