@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\bin\Debug\MiniHesapMakinesi.exe.config
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\bin\Debug\MiniHesapMakinesi.exe
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\bin\Debug\MiniHesapMakinesi.pdb
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\obj\Debug\MiniHesapMakinesi.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\obj\Debug\MiniHesapMakinesi.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\obj\Debug\MiniHesapMakinesi.exe
+C:\Users\Berke\source\repos\MiniHesapMakinesi\MiniHesapMakinesi\obj\Debug\MiniHesapMakinesi.pdb
