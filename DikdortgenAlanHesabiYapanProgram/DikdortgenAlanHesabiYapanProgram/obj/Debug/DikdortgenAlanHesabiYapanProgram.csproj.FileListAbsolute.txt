@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\bin\Debug\DikdortgenAlanHesabiYapanProgram.exe.config
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\bin\Debug\DikdortgenAlanHesabiYapanProgram.exe
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\bin\Debug\DikdortgenAlanHesabiYapanProgram.pdb
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\obj\Debug\DikdortgenAlanHesabiYapanProgram.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\obj\Debug\DikdortgenAlanHesabiYapanProgram.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\obj\Debug\DikdortgenAlanHesabiYapanProgram.exe
+C:\Users\Berke\source\repos\DikdortgenAlanHesabiYapanProgram\DikdortgenAlanHesabiYapanProgram\obj\Debug\DikdortgenAlanHesabiYapanProgram.pdb
