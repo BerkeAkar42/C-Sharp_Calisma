@@ -1,0 +1,7 @@
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\bin\Debug\SaatlikUcretHesaplama.exe.config
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\bin\Debug\SaatlikUcretHesaplama.exe
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\bin\Debug\SaatlikUcretHesaplama.pdb
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\obj\Debug\SaatlikUcretHesaplama.csproj.AssemblyReference.cache
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\obj\Debug\SaatlikUcretHesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\obj\Debug\SaatlikUcretHesaplama.exe
+C:\Users\Berke\source\repos\SaatlikUcretHesaplama\SaatlikUcretHesaplama\obj\Debug\SaatlikUcretHesaplama.pdb
